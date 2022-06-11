@@ -1,0 +1,19 @@
+:root {
+  --main-background-element-color: #97dffb;
+}
+
+#flex {
+  border: solid 5px #97dffb;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flex-unit {
+  font-size: xx-large;
+  background-color: #97dffb;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
